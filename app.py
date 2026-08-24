@@ -132,8 +132,6 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
    "id": "d8996ba4-6715-4054-9af7-a775ac3a6bba",
    "metadata": {},
    "outputs": [],
